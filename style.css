@@ -224,6 +224,7 @@ body {
     display: grid;
     grid-gap: 20px;
     grid-template-rows: auto repeat(3, 1fr);
+    height: 100vh;
 }
 
 .largeCard{
